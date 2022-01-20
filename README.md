@@ -14,4 +14,7 @@ Nathan Kardos's Data Science Portfolio
 * Categorical variables were created from quanitative variables
 * Implemented XGboost with parameter tuning with grid search
 
-#[Project 3 : Personality Anlysis](https://www.yumpu.com/en/document/read/66248233/personality-analysis)
+# [Project 3 : Statistical Analysis of Differences in Personality Among Ages and Genders](https://www.yumpu.com/en/document/read/66248233/personality-analysis)
+* Analyzed personality survey data from Univeristy of Pensylvania
+* Analyzed the relationship between personality and age as well as personality and sex
+* Built regression and other predictive models to predict sex from personality
