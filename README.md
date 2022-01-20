@@ -13,3 +13,5 @@ Nathan Kardos's Data Science Portfolio
 * Data was cleaned and missing values were imputed using KNN imputation
 * Categorical variables were created from quanitative variables
 * Implemented XGboost with parameter tuning with grid search
+
+#[Project 3 : Personality Anlysis](https://www.yumpu.com/en/document/read/66248233/personality-analysis)
